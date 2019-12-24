@@ -1,9 +1,11 @@
 package ltd.zchd.house;
 
+import ltd.zchd.house.autoconfig.EnableHttpClient;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
+@EnableHttpClient
 public class HouseApplication {
 
 
