@@ -9,8 +9,8 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>ltd.zchd</groupId>
-    <artifactId>house</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <artifactId>house-parent</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
     <name>house</name>
     <description>Demo project for Spring Boot</description>
 
